@@ -1,5 +1,19 @@
 Rails.application.routes.draw do
 
+  get 'pages/contaceznous'
+
+  get 'pages/mentionslegales'
+
+  get 'pages/vosquestions'
+
+  get 'pages/expositions'
+
+  get 'pages/nospointsforts'
+
+  get 'pages/questionfrequente'
+
+  get 'pages/activite'
+
   get 'pages/index'
 
   root 'pages#index'
