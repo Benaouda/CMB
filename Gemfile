@@ -39,3 +39,5 @@ gem 'spring',        group: :development
 gem 'debugger', group: [:development, :test]
 
 gem 'bootstrap-sass', '~> 3.1.1.1'
+
+gem 'jquery-ui-rails', '~> 4.2.1'
